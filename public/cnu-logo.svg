@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 144 144" role="img" aria-hidden="true">
+        <defs>
+          <style>
+            .st0 { fill: #143f3a; }
+            .st1 { fill: #fff; }
+            .st2 { fill: #f4f0e8; }
+          </style>
+        </defs>
+        <g id="Layer_1">
+          <rect class="st0" width="144" height="144"/>
+        </g>
+        <g id="Layer_3">
+          <g>
+            <rect class="st1" x="20.55" y="8.12" width="100.12" height="85.93"/>
+            <path class="st1" d="M120.17,8.62v84.93H21.05V8.62h99.12M121.17,7.62H20.05v86.93h101.12V7.62h0Z"/>
+          </g>
+        </g>
+        <g id="Layer_2">
+          <rect class="st2" x="18.92" y="6.83" width="19.51" height="16.71"/>
+          <rect class="st2" x="39.87" y="6.83" width="19.51" height="16.71"/>
+          <rect class="st2" x="60.81" y="6.83" width="19.51" height="16.71"/>
+          <rect class="st2" x="81.75" y="6.83" width="19.51" height="16.71"/>
+          <rect class="st2" x="102.7" y="6.83" width="19.51" height="16.71"/>
+          <rect class="st2" x="11.32" y="24.78" width="19.51" height="16.71"/>
+          <rect class="st2" x="32.27" y="24.78" width="19.51" height="16.71"/>
+          <rect class="st0" x="53.21" y="24.78" width="19.51" height="16.71"/>
+          <rect class="st0" x="74.16" y="24.78" width="19.51" height="16.71"/>
+          <rect class="st2" x="116.04" y="24.78" width="19.51" height="16.71"/>
+          <rect class="st2" x="18.92" y="42.72" width="19.51" height="16.71"/>
+          <rect class="st0" x="39.87" y="42.72" width="19.51" height="16.71"/>
+          <rect class="st0" x="60.81" y="42.72" width="19.51" height="16.71"/>
+          <rect class="st2" x="102.7" y="42.72" width="19.51" height="16.71"/>
+          <rect class="st2" x="8.45" y="60.67" width="19.51" height="16.71"/>
+          <rect class="st0" x="29.4" y="60.67" width="19.51" height="16.71"/>
+          <rect class="st0" x="50.34" y="60.67" width="19.51" height="16.71"/>
+          <rect class="st2" x="92.23" y="60.67" width="19.51" height="16.71"/>
+          <rect class="st2" x="113.17" y="60.67" width="19.51" height="16.71"/>
+          <rect class="st2" x="18.92" y="78.61" width="19.51" height="16.71"/>
+          <rect class="st2" x="39.87" y="78.61" width="19.51" height="16.71"/>
+          <rect class="st2" x="60.81" y="78.61" width="19.51" height="16.71"/>
+          <rect class="st2" x="81.75" y="78.61" width="19.51" height="16.71"/>
+          <rect class="st2" x="102.7" y="78.61" width="19.51" height="16.71"/>
+          <polygon class="st0" points="90.79 60.71 90.79 60.67 90.74 60.67 90.79 60.71"/>
+          <polygon class="st2" points="90.79 61.61 72.38 77.38 90.79 77.38 90.79 61.61"/>
+          <polygon class="st0" points="71.28 76.58 89.86 60.67 71.28 60.67 71.28 76.58"/>
+          <polygon class="st0" points="101.26 42.76 101.26 42.72 101.22 42.72 101.26 42.76"/>
+          <polygon class="st2" points="101.26 43.67 82.85 59.44 101.26 59.44 101.26 43.67"/>
+          <polygon class="st0" points="81.75 58.64 100.33 42.72 81.75 42.72 81.75 58.64"/>
+          <polygon class="st0" points="114.6 24.51 114.6 24.47 114.56 24.47 114.6 24.51"/>
+          <polygon class="st2" points="114.6 25.41 96.2 41.19 114.6 41.19 114.6 25.41"/>
+          <polygon class="st0" points="95.1 40.39 113.67 24.47 95.1 24.47 95.1 40.39"/>
+        </g>
+      </svg>
