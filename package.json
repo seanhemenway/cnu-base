@@ -19,6 +19,7 @@
 	},
 	"private": true,
 	"scripts": {
+		"build": "echo \"Static site — no build step; assets are served from public/\"",
 		"dev": "wrangler dev",
 		"deploy": "wrangler deploy"
 	},
