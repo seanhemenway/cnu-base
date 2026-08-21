@@ -660,7 +660,7 @@
       align-items: center;
       justify-content: center;
       gap: 4px;
-      padding: 8px 10px;
+      padding: 16px 16px;
       background: var(--warm);
       color: var(--ink);
       text-decoration: none;
@@ -675,7 +675,7 @@
     }
     .social-link-label {
       font-family: var(--mono);
-      font-size: 9px;
+      font-size: 12px;
       letter-spacing: 0.15em;
       text-transform: uppercase;
     }
