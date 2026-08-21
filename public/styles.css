@@ -651,26 +651,27 @@
     /* SOCIAL LINKS (contact) */
     .social-links {
       display: flex;
-      flex-wrap: wrap;
+      flex-wrap: nowrap;
       gap: 16px;
       margin-top: 24px;
     }
     .social-link {
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       align-items: center;
       gap: 10px;
-      width: 120px;
-      padding: 24px 12px;
+      padding: 12px 16px;
       background: var(--warm);
       color: var(--ink);
       text-decoration: none;
       transition: color 0.2s ease, background 0.2s ease, transform 0.2s ease;
+      white-space: nowrap;
     }
     .social-link svg {
-      width: 32px;
-      height: 32px;
+      width: 28px;
+      height: 28px;
       fill: currentColor;
+      flex-shrink: 0;
     }
     .social-link-label {
       font-family: var(--mono);
