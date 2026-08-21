@@ -668,8 +668,8 @@
       transition: color 0.2s ease, background 0.2s ease, transform 0.2s ease;
     }
     .social-link svg {
-      width: 28px;
-      height: 28px;
+      width: 32px;
+      height: 32px;
       fill: currentColor;
     }
     .social-link-label {
